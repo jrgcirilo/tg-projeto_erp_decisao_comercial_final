@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="icon"/>
+	<classpathentry excluding="src/|icon/|font/|font/" kind="src" path=""/>
+	<classpathentry kind="src" output="font" path="font"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Jorge Luiz/Emoção/Cidadania/Particular/Ocupação/Estudo/FATEC - Analise e Desenvolvimento de Sistemas/2018/3s/POO/Prática/Workstation/Projeto TCC/null/rs2xml.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Jorge Luiz/Emoção/Cidadania/Particular/Ocupação/Estudo/FATEC - Analise e Desenvolvimento de Sistemas/2018/3s/POO/Prática/Workstation/Projeto TCC/null/mysql-connector-java-8.0.17.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_171"/>
+	<classpathentry exported="true" kind="lib" path="jfreechart-1.5.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="miglayout15-swing.jar" sourcepath="miglayout-src.zip"/>
+	<classpathentry kind="lib" path="jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="jgoodies-common-1.2.0.jar"/>
+	<classpathentry kind="lib" path="jgoodies-looks-2.4.1.jar"/>
+	<classpathentry kind="lib" path="junit-4.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
